@@ -16,7 +16,6 @@ I am a CS & Business Administration student at the University of Southern Califo
 - **Additional Skills:** Prompt Engineering, Clean Code Practices 
 
 
-
 ## What I’m Working On
 - Integrating Socially Assistive Robot and LLMs into an at-home cognitive behavioral therapy module for young adults @ the USC Interaction Lab.
 - Web applications that simplify learning and review for students.
@@ -32,7 +31,3 @@ I am a CS & Business Administration student at the University of Southern Califo
 
 ## Let’s Connect
 - **LinkedIn:** [linkedin.com/in/minyu-huang](#)  
-
-
-Feel free to explore my repositories and projects!
--->
