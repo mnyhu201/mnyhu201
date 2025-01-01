@@ -2,7 +2,7 @@
 
 
 ## About Me
-I am a CS & Business Administration student at the University of Southern California with a Cybersecurity minor and a 4.0 GPA. I’m passionate about exploring the intersection of technology, business, and education, with experience in:
+I am a CS & Business Administration student at the University of Southern California with a Cybersecurity minor.  I’m passionate about exploring the intersection of technology, business, and education, with experience in:
 
 - 🔭 Working on integrating socially assistive robot into a cognitive behavioral therapy module @ the USC Interaction Lab.
 - 👯 Looking to collaborate on open-source projects!
