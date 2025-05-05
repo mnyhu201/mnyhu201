@@ -20,7 +20,7 @@ I am a CS & Business Administration student at the University of Southern Califo
 - Integrating Socially Assistive Robot and LLMs into an at-home cognitive behavioral therapy module for young adults @ the USC Interaction Lab.
 - Web applications that simplify learning and review for students.
 - Exploring new ways to integrate AI and functional design into real-world products.
-- Expanding my knowledge in cybersecurity and advanced system design.
+- Expanding my knowledge in machine learning, system design, and cybersecurity.
 
 ## Education
 **University of Southern California (USC)**  
