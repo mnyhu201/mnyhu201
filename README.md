@@ -11,8 +11,8 @@ I am a CS & Business Administration student at the University of Southern Califo
 - ⚡ Fun fact: I can speak 3 (learning a 4th) languages.
 
 ## Skills
-- **Programming Languages:** Python (pandas, scikit-learn, matplotlib, seaborn, and more), C++, Java, JavaScript (Node.js, React), R (tidyverse) 
-- **Frameworks & Tools:** React, Express.js, AWS, MongoDB, Git & Github, Unix
+- **Programming Languages:** Python, C++, Java, JavaScript (Node.js, React), R (tidyverse) 
+- **Frameworks & Tools:** React, Springboot, Express.js, AWS (IoT Core, RDS), MongoDB, MySQL, Git, Unix
 - **Additional Skills:** Prompt Engineering, Clean Code Practices 
 
 
